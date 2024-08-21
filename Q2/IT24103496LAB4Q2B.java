@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FinalMarkCalculator {
+public class IT24103496LAB4Q2B {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
